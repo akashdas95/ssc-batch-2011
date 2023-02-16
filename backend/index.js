@@ -17,7 +17,7 @@ const db = mysql.createConnection({
     connectionLimit : 100,
     host:"localhost",
     user:"root",
-    password:"01828480977",
+    password:"",
     database:"stu_info",
     port: 3306,
     insecureAuth: false,
